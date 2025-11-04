@@ -3,6 +3,7 @@ using be_guardianprotocol.Core.Models;
 using be_guardianprotocol.Core.Data;
 using be_guardianprotocol.Core.Services;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using System.Text.Json;
 
 namespace be_guardianprotocol.Core.Services
@@ -60,7 +61,12 @@ namespace be_guardianprotocol.Core.Services
         {
             try
             {
-                var serviceBusConnectionString = "";
+                var configuration = new Microsoft.Extensions.Configuration.ConfigurationBuilder()
+                    .SetBasePath(Directory.GetCurrentDirectory())
+                    .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+                    .Build();
+                
+                var serviceBusConnectionString = configuration["ServiceBus:ConnectionString"] ?? "";
                 
                 // Create new context for tenant service to avoid disposal issues
                 var factory = new DesignTimeDbContextFactory();

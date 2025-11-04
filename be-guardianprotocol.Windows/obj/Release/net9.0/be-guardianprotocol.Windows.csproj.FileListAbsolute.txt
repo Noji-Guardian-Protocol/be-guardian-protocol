@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Windows\bin\Release\net9.0\be-guardianprotocol.Windows.deps.json
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Windows\bin\Release\net9.0\be-guardianprotocol.Windows.dll
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Windows\bin\Release\net9.0\be-guardianprotocol.Windows.pdb
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Windows\bin\Release\net9.0\be-guardianprotocol.Core.dll
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Windows\bin\Release\net9.0\be-guardianprotocol.Core.pdb
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Windows\obj\Release\net9.0\be-guardianprotocol.Windows.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Windows\obj\Release\net9.0\be-guardianprotocol.Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Windows\obj\Release\net9.0\be-guardianprotocol.Windows.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Windows\obj\Release\net9.0\be-guardianprotocol.Windows.AssemblyInfo.cs
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Windows\obj\Release\net9.0\be-guardianprotocol.Windows.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Windows\obj\Release\net9.0\be-guard.4E29A7B4.Up2Date
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Windows\obj\Release\net9.0\be-guardianprotocol.Windows.dll
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Windows\obj\Release\net9.0\refint\be-guardianprotocol.Windows.dll
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Windows\obj\Release\net9.0\be-guardianprotocol.Windows.pdb
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Windows\obj\Release\net9.0\ref\be-guardianprotocol.Windows.dll

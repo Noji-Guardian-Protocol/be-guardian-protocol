@@ -1,0 +1,26 @@
+{
+  "SecurityServices": [
+    "com.apple.xprotect",
+    "com.crowdstrike.falcond",
+    "com.sentinelone.sentineld",
+    "com.cylance.agent",
+    "com.mcafee.agent",
+    "com.kaspersky.kav",
+    "com.avg.daemon"
+  ],
+  "SecurityProcesses": [
+    "XProtect",
+    "falcond",
+    "sentineld",
+    "CylanceAgent",
+    "McAfeeAgent",
+    "kavdaemon",
+    "avgdaemon"
+  ],
+  "ProcessNameExclusions": [
+    "kernel_task",
+    "launchd",
+    "loginwindow",
+    "WindowServer"
+  ]
+}

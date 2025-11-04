@@ -1,0 +1,8 @@
+{
+  "AuthorizedSSIDs": [
+    "CORPORATE-WIFI",
+    "COMPANY-SECURE", 
+    "OFFICE-NETWORK",
+    "CORP-GUEST"
+  ]
+}

@@ -1,0 +1,15 @@
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Mac\bin\Debug\net9.0\be-guardianprotocol.Mac.deps.json
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Mac\bin\Debug\net9.0\be-guardianprotocol.Mac.dll
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Mac\bin\Debug\net9.0\be-guardianprotocol.Mac.pdb
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Mac\bin\Debug\net9.0\be-guardianprotocol.Core.dll
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Mac\bin\Debug\net9.0\be-guardianprotocol.Core.pdb
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Mac\obj\Debug\net9.0\be-guardianprotocol.Mac.csproj.AssemblyReference.cache
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Mac\obj\Debug\net9.0\be-guardianprotocol.Mac.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Mac\obj\Debug\net9.0\be-guardianprotocol.Mac.AssemblyInfoInputs.cache
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Mac\obj\Debug\net9.0\be-guardianprotocol.Mac.AssemblyInfo.cs
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Mac\obj\Debug\net9.0\be-guardianprotocol.Mac.csproj.CoreCompileInputs.cache
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Mac\obj\Debug\net9.0\be-guard.C287101F.Up2Date
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Mac\obj\Debug\net9.0\be-guardianprotocol.Mac.dll
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Mac\obj\Debug\net9.0\refint\be-guardianprotocol.Mac.dll
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Mac\obj\Debug\net9.0\be-guardianprotocol.Mac.pdb
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Mac\obj\Debug\net9.0\ref\be-guardianprotocol.Mac.dll

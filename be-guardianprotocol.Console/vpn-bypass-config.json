@@ -1,0 +1,32 @@
+{
+  "UnauthorizedVpnApps": [
+    { "ProcessName": "nordvpn", "Provider": "NordVPN" },
+    { "ProcessName": "expressvpn", "Provider": "ExpressVPN" },
+    { "ProcessName": "protonvpn", "Provider": "ProtonVPN" },
+    { "ProcessName": "surfshark", "Provider": "Surfshark" },
+    { "ProcessName": "cyberghost", "Provider": "CyberGhost" },
+    { "ProcessName": "tunnelbear", "Provider": "TunnelBear" },
+    { "ProcessName": "hotspotshield", "Provider": "Hotspot Shield" },
+    { "ProcessName": "privatevpn", "Provider": "PrivateVPN" },
+    { "ProcessName": "ipvanish", "Provider": "IPVanish" },
+    { "ProcessName": "purevpn", "Provider": "PureVPN" },
+    { "ProcessName": "windscribe", "Provider": "Windscribe" },
+    { "ProcessName": "vyprvpn", "Provider": "VyprVPN" }
+  ],
+  "KnownVpnProviderIPs": [
+    "nordvpn.com",
+    "expressvpn.com", 
+    "protonvpn.com",
+    "surfshark.com",
+    "cyberghostvpn.com",
+    "tunnelbear.com",
+    "hotspotshield.com",
+    "privatevpn.com",
+    "ipvanish.com",
+    "purevpn.com",
+    "windscribe.com",
+    "vyprvpn.com"
+  ],
+  "VpnRejectionThreshold": 3,
+  "VpnAvoidanceTimeWindow": 60
+}

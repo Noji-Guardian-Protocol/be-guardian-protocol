@@ -1,0 +1,16 @@
+{
+  "TetheringProcessNames": [
+    "hotspot",
+    "tether",
+    "pdanet",
+    "foxfi",
+    "easytether",
+    "connectify",
+    "mhotspot",
+    "baidu",
+    "160wifi",
+    "wifi-hotspot",
+    "mobile-hotspot",
+    "netshare"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "chrome": {
+    "TimeoutMinutes": 30,
+    "RequiresReauth": true
+  },
+  "msedge": {
+    "TimeoutMinutes": 30,
+    "RequiresReauth": true
+  },
+  "firefox": {
+    "TimeoutMinutes": 30,
+    "RequiresReauth": true
+  },
+  "outlook": {
+    "TimeoutMinutes": 60,
+    "RequiresReauth": true
+  },
+  "teams": {
+    "TimeoutMinutes": 480,
+    "RequiresReauth": false
+  },
+  "excel": {
+    "TimeoutMinutes": 120,
+    "RequiresReauth": true
+  },
+  "winword": {
+    "TimeoutMinutes": 120,
+    "RequiresReauth": true
+  },
+  "powerpnt": {
+    "TimeoutMinutes": 120,
+    "RequiresReauth": true
+  },
+  "ssms": {
+    "TimeoutMinutes": 15,
+    "RequiresReauth": true
+  },
+  "mstsc": {
+    "TimeoutMinutes": 30,
+    "RequiresReauth": true
+  },
+  "epic": {
+    "TimeoutMinutes": 15,
+    "RequiresReauth": true
+  },
+  "cerner": {
+    "TimeoutMinutes": 15,
+    "RequiresReauth": true
+  }
+}

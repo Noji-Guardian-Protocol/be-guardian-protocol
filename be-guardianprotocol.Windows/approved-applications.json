@@ -1,0 +1,25 @@
+{
+  "ApprovedApplications": [
+    "explorer.exe",
+    "notepad.exe",
+    "chrome.exe",
+    "firefox.exe",
+    "outlook.exe",
+    "winword.exe",
+    "excel.exe",
+    "powerpnt.exe",
+    "teams.exe",
+    "code.exe"
+  ],
+  "ApprovedPublishers": [
+    "Microsoft Corporation",
+    "Google LLC",
+    "Mozilla Corporation"
+  ],
+  "SuspiciousDirectories": [
+    "Downloads",
+    "Temp",
+    "Desktop",
+    "AppData\\Local\\Temp"
+  ]
+}

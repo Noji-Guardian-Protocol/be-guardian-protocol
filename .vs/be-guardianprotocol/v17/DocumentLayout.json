@@ -1,0 +1,577 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.core\\services\\featureextractionengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|solutionrelative:be-guardianprotocol.core\\services\\featureextractionengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.core\\services\\guardianprotocolagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|solutionrelative:be-guardianprotocol.core\\services\\guardianprotocolagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.core\\services\\eventgridpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|solutionrelative:be-guardianprotocol.core\\services\\eventgridpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8D6E68-E7D5-463E-8A1B-06B7FB47515D}|be-guardianprotocol.Windows\\be-guardianprotocol.Windows.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.windows\\windowskeyboardcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8D6E68-E7D5-463E-8A1B-06B7FB47515D}|be-guardianprotocol.Windows\\be-guardianprotocol.Windows.csproj|solutionrelative:be-guardianprotocol.windows\\windowskeyboardcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B02283-9EEE-49F9-925C-06C97C13C01A}|be-guardianprotocol.Console\\be-guardianprotocol.Console.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B02283-9EEE-49F9-925C-06C97C13C01A}|be-guardianprotocol.Console\\be-guardianprotocol.Console.csproj|solutionrelative:be-guardianprotocol.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B02283-9EEE-49F9-925C-06C97C13C01A}|be-guardianprotocol.Console\\be-guardianprotocol.Console.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.console\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84B02283-9EEE-49F9-925C-06C97C13C01A}|be-guardianprotocol.Console\\be-guardianprotocol.Console.csproj|solutionrelative:be-guardianprotocol.console\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.core\\services\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|solutionrelative:be-guardianprotocol.core\\services\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.core\\models\\behavioralfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|solutionrelative:be-guardianprotocol.core\\models\\behavioralfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B02283-9EEE-49F9-925C-06C97C13C01A}|be-guardianprotocol.Console\\be-guardianprotocol.Console.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.console\\be-guardianprotocol.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84B02283-9EEE-49F9-925C-06C97C13C01A}|be-guardianprotocol.Console\\be-guardianprotocol.Console.csproj|solutionrelative:be-guardianprotocol.console\\be-guardianprotocol.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\AWSToolkit\\DiffViewerTempFiles\\DiffViewer_a05758fc-b8dd-411c-9b5a-2b6433bf53c9\\bb766190-5fe8-46fc-af53-3dda0f34c85e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\AWSToolkit\\DiffViewerTempFiles\\DiffViewer_a05758fc-b8dd-411c-9b5a-2b6433bf53c9\\73621702-7398-4adf-bc29-a5619a69890f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\AWSToolkit\\DiffViewerTempFiles\\DiffViewer_411d0ef9-021f-4f0b-b62c-fba450255eab\\31afb3bd-ff6a-4698-8e1f-efb0d77e3008.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\AWSToolkit\\DiffViewerTempFiles\\DiffViewer_411d0ef9-021f-4f0b-b62c-fba450255eab\\1c83b04f-1ae7-411c-80b1-dda49942a85c.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6DB6A4-8D72-41C2-83B1-FD4D1029CBC6}|be-guardianprotocol.Mac\\be-guardianprotocol.Mac.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.mac\\maccloudstoragecollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6DB6A4-8D72-41C2-83B1-FD4D1029CBC6}|be-guardianprotocol.Mac\\be-guardianprotocol.Mac.csproj|solutionrelative:be-guardianprotocol.mac\\maccloudstoragecollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.core\\services\\tenantconfigurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|solutionrelative:be-guardianprotocol.core\\services\\tenantconfigurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.core\\data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|solutionrelative:be-guardianprotocol.core\\data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6DB6A4-8D72-41C2-83B1-FD4D1029CBC6}|be-guardianprotocol.Mac\\be-guardianprotocol.Mac.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.mac\\approved-applications.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B6DB6A4-8D72-41C2-83B1-FD4D1029CBC6}|be-guardianprotocol.Mac\\be-guardianprotocol.Mac.csproj|solutionrelative:be-guardianprotocol.mac\\approved-applications.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8D6E68-E7D5-463E-8A1B-06B7FB47515D}|be-guardianprotocol.Windows\\be-guardianprotocol.Windows.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.windows\\windowsprocesscollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8D6E68-E7D5-463E-8A1B-06B7FB47515D}|be-guardianprotocol.Windows\\be-guardianprotocol.Windows.csproj|solutionrelative:be-guardianprotocol.windows\\windowsprocesscollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6DB6A4-8D72-41C2-83B1-FD4D1029CBC6}|be-guardianprotocol.Mac\\be-guardianprotocol.Mac.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.mac\\macusbcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6DB6A4-8D72-41C2-83B1-FD4D1029CBC6}|be-guardianprotocol.Mac\\be-guardianprotocol.Mac.csproj|solutionrelative:be-guardianprotocol.mac\\macusbcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6DB6A4-8D72-41C2-83B1-FD4D1029CBC6}|be-guardianprotocol.Mac\\be-guardianprotocol.Mac.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.mac\\macupdatecompliancecollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6DB6A4-8D72-41C2-83B1-FD4D1029CBC6}|be-guardianprotocol.Mac\\be-guardianprotocol.Mac.csproj|solutionrelative:be-guardianprotocol.mac\\macupdatecompliancecollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6DB6A4-8D72-41C2-83B1-FD4D1029CBC6}|be-guardianprotocol.Mac\\be-guardianprotocol.Mac.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.mac\\macprocesscollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6DB6A4-8D72-41C2-83B1-FD4D1029CBC6}|be-guardianprotocol.Mac\\be-guardianprotocol.Mac.csproj|solutionrelative:be-guardianprotocol.mac\\macprocesscollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6DB6A4-8D72-41C2-83B1-FD4D1029CBC6}|be-guardianprotocol.Mac\\be-guardianprotocol.Mac.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.mac\\macencryptioncollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6DB6A4-8D72-41C2-83B1-FD4D1029CBC6}|be-guardianprotocol.Mac\\be-guardianprotocol.Mac.csproj|solutionrelative:be-guardianprotocol.mac\\macencryptioncollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6DB6A4-8D72-41C2-83B1-FD4D1029CBC6}|be-guardianprotocol.Mac\\be-guardianprotocol.Mac.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.mac\\mackeyboardcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6DB6A4-8D72-41C2-83B1-FD4D1029CBC6}|be-guardianprotocol.Mac\\be-guardianprotocol.Mac.csproj|solutionrelative:be-guardianprotocol.mac\\mackeyboardcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FDF672-0D27-4EF8-A5BA-9E3440041DD7}|be-guardianprotocol.Linux\\be-guardianprotocol.Linux.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.linux\\linuxencryptioncollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FDF672-0D27-4EF8-A5BA-9E3440041DD7}|be-guardianprotocol.Linux\\be-guardianprotocol.Linux.csproj|solutionrelative:be-guardianprotocol.linux\\linuxencryptioncollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.core\\services\\signalcaptureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|solutionrelative:be-guardianprotocol.core\\services\\signalcaptureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.core\\models\\signaleventlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|solutionrelative:be-guardianprotocol.core\\models\\signaleventlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8D6E68-E7D5-463E-8A1B-06B7FB47515D}|be-guardianprotocol.Windows\\be-guardianprotocol.Windows.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.windows\\windowsencryptioncollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8D6E68-E7D5-463E-8A1B-06B7FB47515D}|be-guardianprotocol.Windows\\be-guardianprotocol.Windows.csproj|solutionrelative:be-guardianprotocol.windows\\windowsencryptioncollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8D6E68-E7D5-463E-8A1B-06B7FB47515D}|be-guardianprotocol.Windows\\be-guardianprotocol.Windows.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.windows\\windowsvpncollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8D6E68-E7D5-463E-8A1B-06B7FB47515D}|be-guardianprotocol.Windows\\be-guardianprotocol.Windows.csproj|solutionrelative:be-guardianprotocol.windows\\windowsvpncollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8D6E68-E7D5-463E-8A1B-06B7FB47515D}|be-guardianprotocol.Windows\\be-guardianprotocol.Windows.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.windows\\windowswificollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8D6E68-E7D5-463E-8A1B-06B7FB47515D}|be-guardianprotocol.Windows\\be-guardianprotocol.Windows.csproj|solutionrelative:be-guardianprotocol.windows\\windowswificollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.core\\enums\\signaltypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|solutionrelative:be-guardianprotocol.core\\enums\\signaltypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.core\\interfaces\\isignalcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|solutionrelative:be-guardianprotocol.core\\interfaces\\isignalcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.core\\be-guardianprotocol.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|solutionrelative:be-guardianprotocol.core\\be-guardianprotocol.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6DB6A4-8D72-41C2-83B1-FD4D1029CBC6}|be-guardianprotocol.Mac\\be-guardianprotocol.Mac.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.mac\\macwificollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6DB6A4-8D72-41C2-83B1-FD4D1029CBC6}|be-guardianprotocol.Mac\\be-guardianprotocol.Mac.csproj|solutionrelative:be-guardianprotocol.mac\\macwificollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FDF672-0D27-4EF8-A5BA-9E3440041DD7}|be-guardianprotocol.Linux\\be-guardianprotocol.Linux.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.linux\\linuxwificollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FDF672-0D27-4EF8-A5BA-9E3440041DD7}|be-guardianprotocol.Linux\\be-guardianprotocol.Linux.csproj|solutionrelative:be-guardianprotocol.linux\\linuxwificollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|c:\\users\\hp\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.core\\models\\signalproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8908AD28-B079-471D-AD11-2ECE6B62C870}|be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj|solutionrelative:be-guardianprotocol.core\\models\\signalproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FeatureExtractionEngine.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Services\\FeatureExtractionEngine.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Core\\Services\\FeatureExtractionEngine.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Services\\FeatureExtractionEngine.cs",
+              "RelativeToolTip": "be-guardianprotocol.Core\\Services\\FeatureExtractionEngine.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAA0wL4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:42:34.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventGridPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Services\\EventGridPublisher.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Core\\Services\\EventGridPublisher.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Services\\EventGridPublisher.cs",
+              "RelativeToolTip": "be-guardianprotocol.Core\\Services\\EventGridPublisher.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIA4wCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:53:09.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Console\\appsettings.json",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Console\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Console\\appsettings.json",
+              "RelativeToolTip": "be-guardianprotocol.Console\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-02T16:59:07.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GuardianProtocolAgent.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Services\\GuardianProtocolAgent.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Core\\Services\\GuardianProtocolAgent.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Services\\GuardianProtocolAgent.cs",
+              "RelativeToolTip": "be-guardianprotocol.Core\\Services\\GuardianProtocolAgent.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAA2wH8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T20:32:17.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WindowsKeyboardCollector.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Windows\\WindowsKeyboardCollector.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Windows\\WindowsKeyboardCollector.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Windows\\WindowsKeyboardCollector.cs",
+              "RelativeToolTip": "be-guardianprotocol.Windows\\WindowsKeyboardCollector.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAuwFkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T21:45:42.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Services\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Core\\Services\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Services\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "be-guardianprotocol.Core\\Services\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA0wBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:56:09.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Console\\Program.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Console\\Program.cs",
+              "RelativeToolTip": "be-guardianprotocol.Console\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA1wBcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T20:49:40.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "be-guardianprotocol.Console.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Console\\be-guardianprotocol.Console.csproj",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Console\\be-guardianprotocol.Console.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Console\\be-guardianprotocol.Console.csproj",
+              "RelativeToolTip": "be-guardianprotocol.Console\\be-guardianprotocol.Console.csproj",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-03T21:14:39.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BehavioralFeatures.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Models\\BehavioralFeatures.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Core\\Models\\BehavioralFeatures.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Models\\BehavioralFeatures.cs",
+              "RelativeToolTip": "be-guardianprotocol.Core\\Models\\BehavioralFeatures.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAAAAwBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T21:14:43.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bb766190-5fe8-46fc-af53-3dda0f34c85e.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\AppData\\Local\\Temp\\AwsToolkit\\DiffViewerTempFiles\\DiffViewer_a05758fc-b8dd-411c-9b5a-2b6433bf53c9\\bb766190-5fe8-46fc-af53-3dda0f34c85e.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\AwsToolkit\\DiffViewerTempFiles\\DiffViewer_a05758fc-b8dd-411c-9b5a-2b6433bf53c9\\bb766190-5fe8-46fc-af53-3dda0f34c85e.cs",
+              "ToolTip": "C:\\Users\\HP\\AppData\\Local\\Temp\\AwsToolkit\\DiffViewerTempFiles\\DiffViewer_a05758fc-b8dd-411c-9b5a-2b6433bf53c9\\bb766190-5fe8-46fc-af53-3dda0f34c85e.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\AwsToolkit\\DiffViewerTempFiles\\DiffViewer_a05758fc-b8dd-411c-9b5a-2b6433bf53c9\\bb766190-5fe8-46fc-af53-3dda0f34c85e.cs",
+              "ViewState": "AgIAABwBAAAAAAAAAAA2wCoBAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T21:14:37.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "73621702-7398-4adf-bc29-a5619a69890f.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\AppData\\Local\\Temp\\AwsToolkit\\DiffViewerTempFiles\\DiffViewer_a05758fc-b8dd-411c-9b5a-2b6433bf53c9\\73621702-7398-4adf-bc29-a5619a69890f.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\AwsToolkit\\DiffViewerTempFiles\\DiffViewer_a05758fc-b8dd-411c-9b5a-2b6433bf53c9\\73621702-7398-4adf-bc29-a5619a69890f.cs",
+              "ToolTip": "C:\\Users\\HP\\AppData\\Local\\Temp\\AwsToolkit\\DiffViewerTempFiles\\DiffViewer_a05758fc-b8dd-411c-9b5a-2b6433bf53c9\\73621702-7398-4adf-bc29-a5619a69890f.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\AwsToolkit\\DiffViewerTempFiles\\DiffViewer_a05758fc-b8dd-411c-9b5a-2b6433bf53c9\\73621702-7398-4adf-bc29-a5619a69890f.cs",
+              "ViewState": "AgIAAFMBAAAAAAAAAAA2wGEBAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T21:14:34.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "31afb3bd-ff6a-4698-8e1f-efb0d77e3008.md",
+              "DocumentMoniker": "C:\\Users\\HP\\AppData\\Local\\Temp\\AwsToolkit\\DiffViewerTempFiles\\DiffViewer_411d0ef9-021f-4f0b-b62c-fba450255eab\\31afb3bd-ff6a-4698-8e1f-efb0d77e3008.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\AwsToolkit\\DiffViewerTempFiles\\DiffViewer_411d0ef9-021f-4f0b-b62c-fba450255eab\\31afb3bd-ff6a-4698-8e1f-efb0d77e3008.md",
+              "ToolTip": "C:\\Users\\HP\\AppData\\Local\\Temp\\AwsToolkit\\DiffViewerTempFiles\\DiffViewer_411d0ef9-021f-4f0b-b62c-fba450255eab\\31afb3bd-ff6a-4698-8e1f-efb0d77e3008.md",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\AwsToolkit\\DiffViewerTempFiles\\DiffViewer_411d0ef9-021f-4f0b-b62c-fba450255eab\\31afb3bd-ff6a-4698-8e1f-efb0d77e3008.md",
+              "ViewState": "AgIAADwAAAAAAAAAAIA2wEoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-03T21:14:32.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "1c83b04f-1ae7-411c-80b1-dda49942a85c.md",
+              "DocumentMoniker": "C:\\Users\\HP\\AppData\\Local\\Temp\\AwsToolkit\\DiffViewerTempFiles\\DiffViewer_411d0ef9-021f-4f0b-b62c-fba450255eab\\1c83b04f-1ae7-411c-80b1-dda49942a85c.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\AwsToolkit\\DiffViewerTempFiles\\DiffViewer_411d0ef9-021f-4f0b-b62c-fba450255eab\\1c83b04f-1ae7-411c-80b1-dda49942a85c.md",
+              "ToolTip": "C:\\Users\\HP\\AppData\\Local\\Temp\\AwsToolkit\\DiffViewerTempFiles\\DiffViewer_411d0ef9-021f-4f0b-b62c-fba450255eab\\1c83b04f-1ae7-411c-80b1-dda49942a85c.md",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\AwsToolkit\\DiffViewerTempFiles\\DiffViewer_411d0ef9-021f-4f0b-b62c-fba450255eab\\1c83b04f-1ae7-411c-80b1-dda49942a85c.md",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-03T21:14:28.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TenantConfigurationService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Services\\TenantConfigurationService.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Core\\Services\\TenantConfigurationService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Services\\TenantConfigurationService.cs",
+              "RelativeToolTip": "be-guardianprotocol.Core\\Services\\TenantConfigurationService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwC0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T20:38:20.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MacCloudStorageCollector.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Mac\\MacCloudStorageCollector.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Mac\\MacCloudStorageCollector.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Mac\\MacCloudStorageCollector.cs",
+              "RelativeToolTip": "be-guardianprotocol.Mac\\MacCloudStorageCollector.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T20:39:16.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Core\\Data\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "be-guardianprotocol.Core\\Data\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:34:34.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "approved-applications.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Mac\\approved-applications.json",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Mac\\approved-applications.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Mac\\approved-applications.json",
+              "RelativeToolTip": "be-guardianprotocol.Mac\\approved-applications.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-02T21:10:45.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MacEncryptionCollector.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Mac\\MacEncryptionCollector.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Mac\\MacEncryptionCollector.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Mac\\MacEncryptionCollector.cs",
+              "RelativeToolTip": "be-guardianprotocol.Mac\\MacEncryptionCollector.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAlwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T20:39:59.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MacKeyboardCollector.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Mac\\MacKeyboardCollector.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Mac\\MacKeyboardCollector.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Mac\\MacKeyboardCollector.cs",
+              "RelativeToolTip": "be-guardianprotocol.Mac\\MacKeyboardCollector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T20:39:19.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WindowsProcessCollector.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Windows\\WindowsProcessCollector.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Windows\\WindowsProcessCollector.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Windows\\WindowsProcessCollector.cs",
+              "RelativeToolTip": "be-guardianprotocol.Windows\\WindowsProcessCollector.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAA2wFgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:47:35.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MacUSBCollector.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Mac\\MacUSBCollector.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Mac\\MacUSBCollector.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Mac\\MacUSBCollector.cs",
+              "RelativeToolTip": "be-guardianprotocol.Mac\\MacUSBCollector.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADgvywAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T20:40:10.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MacProcessCollector.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Mac\\MacProcessCollector.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Mac\\MacProcessCollector.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Mac\\MacProcessCollector.cs",
+              "RelativeToolTip": "be-guardianprotocol.Mac\\MacProcessCollector.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T20:40:16.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MacUpdateComplianceCollector.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Mac\\MacUpdateComplianceCollector.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Mac\\MacUpdateComplianceCollector.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Mac\\MacUpdateComplianceCollector.cs",
+              "RelativeToolTip": "be-guardianprotocol.Mac\\MacUpdateComplianceCollector.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADgv0UAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T20:40:07.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LinuxEncryptionCollector.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Linux\\LinuxEncryptionCollector.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Linux\\LinuxEncryptionCollector.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Linux\\LinuxEncryptionCollector.cs",
+              "RelativeToolTip": "be-guardianprotocol.Linux\\LinuxEncryptionCollector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T20:39:13.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SignalCaptureService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Services\\SignalCaptureService.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Core\\Services\\SignalCaptureService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Services\\SignalCaptureService.cs",
+              "RelativeToolTip": "be-guardianprotocol.Core\\Services\\SignalCaptureService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAswBcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T20:40:32.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SignalEventLog.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Models\\SignalEventLog.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Core\\Models\\SignalEventLog.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Models\\SignalEventLog.cs",
+              "RelativeToolTip": "be-guardianprotocol.Core\\Models\\SignalEventLog.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T20:27:39.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WindowsEncryptionCollector.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Windows\\WindowsEncryptionCollector.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Windows\\WindowsEncryptionCollector.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Windows\\WindowsEncryptionCollector.cs",
+              "RelativeToolTip": "be-guardianprotocol.Windows\\WindowsEncryptionCollector.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:37:11.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WindowsVpnCollector.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Windows\\WindowsVpnCollector.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Windows\\WindowsVpnCollector.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Windows\\WindowsVpnCollector.cs",
+              "RelativeToolTip": "be-guardianprotocol.Windows\\WindowsVpnCollector.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAywIUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:14:36.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WindowsWifiCollector.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Windows\\WindowsWifiCollector.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Windows\\WindowsWifiCollector.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Windows\\WindowsWifiCollector.cs",
+              "RelativeToolTip": "be-guardianprotocol.Windows\\WindowsWifiCollector.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAkwNQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T20:44:59.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ISignalCollector.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Interfaces\\ISignalCollector.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Core\\Interfaces\\ISignalCollector.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Interfaces\\ISignalCollector.cs",
+              "RelativeToolTip": "be-guardianprotocol.Core\\Interfaces\\ISignalCollector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T20:39:37.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SignalTypes.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Enums\\SignalTypes.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Core\\Enums\\SignalTypes.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Enums\\SignalTypes.cs",
+              "RelativeToolTip": "be-guardianprotocol.Core\\Enums\\SignalTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T20:39:51.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LinuxWifiCollector.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Linux\\LinuxWifiCollector.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Linux\\LinuxWifiCollector.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Linux\\LinuxWifiCollector.cs",
+              "RelativeToolTip": "be-guardianprotocol.Linux\\LinuxWifiCollector.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA0wAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T20:46:17.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "be-guardianprotocol.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj",
+              "RelativeToolTip": "be-guardianprotocol.Core\\be-guardianprotocol.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-01T20:29:54.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MacWifiCollector.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Mac\\MacWifiCollector.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Mac\\MacWifiCollector.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Mac\\MacWifiCollector.cs",
+              "RelativeToolTip": "be-guardianprotocol.Mac\\MacWifiCollector.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAewEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T20:47:03.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SignalProperty.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Models\\SignalProperty.cs",
+              "RelativeDocumentMoniker": "be-guardianprotocol.Core\\Models\\SignalProperty.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\be-guardianprotocol\\be-guardianprotocol.Core\\Models\\SignalProperty.cs",
+              "RelativeToolTip": "be-guardianprotocol.Core\\Models\\SignalProperty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T20:39:21.322Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

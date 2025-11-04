@@ -1,0 +1,15 @@
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Linux\bin\Debug\net9.0\be-guardianprotocol.Linux.deps.json
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Linux\bin\Debug\net9.0\be-guardianprotocol.Linux.dll
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Linux\bin\Debug\net9.0\be-guardianprotocol.Linux.pdb
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Linux\bin\Debug\net9.0\be-guardianprotocol.Core.dll
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Linux\bin\Debug\net9.0\be-guardianprotocol.Core.pdb
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Linux\obj\Debug\net9.0\be-guardianprotocol.Linux.csproj.AssemblyReference.cache
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Linux\obj\Debug\net9.0\be-guardianprotocol.Linux.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Linux\obj\Debug\net9.0\be-guardianprotocol.Linux.AssemblyInfoInputs.cache
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Linux\obj\Debug\net9.0\be-guardianprotocol.Linux.AssemblyInfo.cs
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Linux\obj\Debug\net9.0\be-guardianprotocol.Linux.csproj.CoreCompileInputs.cache
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Linux\obj\Debug\net9.0\be-guard.51240D11.Up2Date
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Linux\obj\Debug\net9.0\be-guardianprotocol.Linux.dll
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Linux\obj\Debug\net9.0\refint\be-guardianprotocol.Linux.dll
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Linux\obj\Debug\net9.0\be-guardianprotocol.Linux.pdb
+c:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Linux\obj\Debug\net9.0\ref\be-guardianprotocol.Linux.dll

@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Core\bin\Release\net9.0\be-guardianprotocol.Core.deps.json
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Core\bin\Release\net9.0\be-guardianprotocol.Core.dll
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Core\bin\Release\net9.0\be-guardianprotocol.Core.pdb
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Core\obj\Release\net9.0\be-guardianprotocol.Core.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Core\obj\Release\net9.0\be-guardianprotocol.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Core\obj\Release\net9.0\be-guardianprotocol.Core.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Core\obj\Release\net9.0\be-guardianprotocol.Core.AssemblyInfo.cs
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Core\obj\Release\net9.0\be-guardianprotocol.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Core\obj\Release\net9.0\be-guardianprotocol.Core.dll
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Core\obj\Release\net9.0\refint\be-guardianprotocol.Core.dll
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Core\obj\Release\net9.0\be-guardianprotocol.Core.pdb
+C:\Users\HP\source\repos\be-guardianprotocol\be-guardianprotocol.Core\obj\Release\net9.0\ref\be-guardianprotocol.Core.dll

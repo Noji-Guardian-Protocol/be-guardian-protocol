@@ -1,0 +1,13 @@
+{
+  "ApprovedMfaApps": [
+    "Microsoft.AAD.BrokerPlugin",
+    "Microsoft Authenticator",
+    "Okta Verify",
+    "Duo Mobile",
+    "AuthenticatorApp",
+    "Google Authenticator",
+    "Authy Desktop",
+    "1Password",
+    "LastPass Authenticator"
+  ]
+}

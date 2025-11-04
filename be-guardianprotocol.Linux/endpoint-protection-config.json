@@ -1,0 +1,26 @@
+{
+  "SecurityServices": [
+    "clamav-daemon",
+    "falcon-sensor",
+    "sentinelone",
+    "cylance",
+    "mcafee-agent",
+    "kaspersky-daemon",
+    "avg-daemon"
+  ],
+  "SecurityProcesses": [
+    "clamd",
+    "falcon-sensor",
+    "sentinelone",
+    "CylanceAgent",
+    "McAfeeAgent",
+    "kavdaemon",
+    "avgdaemon"
+  ],
+  "ProcessNameExclusions": [
+    "init",
+    "kthreadd",
+    "systemd",
+    "kernel"
+  ]
+}

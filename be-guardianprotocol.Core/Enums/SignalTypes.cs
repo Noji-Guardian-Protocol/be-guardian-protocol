@@ -1,0 +1,33 @@
+﻿namespace be_guardianprotocol.Core.Enums
+{
+    public enum SignalTypes
+    {
+        Wifi,
+        Bluetooth,
+        Gps,
+        Cellular,
+        Mouse,
+        USB,
+        Keyboard,
+        Process,
+        Network,
+        TextAnalysis,
+        VPN,
+        VPN_BYPASS,
+        PASSWORD_SECURITY,
+        GEOLOCATION_SECURITY,
+        HOTSPOT_SECURITY,
+        SCREEN_LOCK_SECURITY,
+        SESSION_TIMEOUT_SECURITY,
+        PASSWORD_LENGTH_SECURITY,
+        MFA_SECURITY,
+        PASSWORD_EXPIRATION,
+        UNAUTHORIZED_SOFTWARE,
+        AUTOMATED_UPDATE,
+        UNAUTHORIZED_DATA_SHARING,
+        UNAUTHORIZED_CLOUD_STORAGE,
+        SYSTEM_INFO,
+        Encryption,
+        Custom
+    }
+}

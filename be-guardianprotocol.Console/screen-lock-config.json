@@ -1,0 +1,6 @@
+{
+  "MaxScreensaverTimeoutSeconds": 900,
+  "MaxLockTimeoutSeconds": 900,
+  "MaxIdleTimeMinutes": 15,
+  "MaxUnlockedSessionMinutes": 480
+}

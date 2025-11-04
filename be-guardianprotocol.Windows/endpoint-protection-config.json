@@ -1,0 +1,33 @@
+{
+  "SecurityServices": [
+    "WinDefend",
+    "MsMpSvc",
+    "SecurityHealthService",
+    "Sense",
+    "CrowdStrike Falcon Sensor Service",
+    "SentinelAgent",
+    "CylanceSvc",
+    "McAfeeFramework",
+    "AVP",
+    "AVGUI"
+  ],
+  "SecurityProcesses": [
+    "MsMpEng",
+    "NisSrv",
+    "SecurityHealthSystray",
+    "MsSense",
+    "CSFalconService",
+    "SentinelAgent",
+    "CylanceUI",
+    "McUICnt",
+    "avp",
+    "avgui"
+  ],
+  "ProcessNameExclusions": [
+    "svchost",
+    "services",
+    "winlogon",
+    "csrss",
+    "lsass"
+  ]
+}

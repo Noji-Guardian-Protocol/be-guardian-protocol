@@ -1,0 +1,28 @@
+{
+  "ApprovedApplications": [
+    "nautilus",
+    "gedit",
+    "firefox",
+    "chromium-browser",
+    "thunderbird",
+    "libreoffice-writer",
+    "libreoffice-calc",
+    "libreoffice-impress",
+    "teams",
+    "code"
+  ],
+  "ApprovedPublishers": [
+    "Canonical Ltd.",
+    "Red Hat, Inc.",
+    "Mozilla Corporation",
+    "Google LLC",
+    "Microsoft Corporation"
+  ],
+  "SuspiciousDirectories": [
+    "Downloads",
+    "tmp",
+    "Desktop",
+    "/tmp",
+    "/var/tmp"
+  ]
+}

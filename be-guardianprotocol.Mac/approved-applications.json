@@ -1,0 +1,27 @@
+{
+  "ApprovedApplications": [
+    "Finder",
+    "TextEdit",
+    "Safari",
+    "Chrome",
+    "Firefox",
+    "Mail",
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Microsoft Teams",
+    "Visual Studio Code"
+  ],
+  "ApprovedPublishers": [
+    "Apple Inc.",
+    "Microsoft Corporation",
+    "Google LLC",
+    "Mozilla Corporation"
+  ],
+  "SuspiciousDirectories": [
+    "Downloads",
+    "tmp",
+    "Desktop",
+    "/var/tmp"
+  ]
+}

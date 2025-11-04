@@ -1,0 +1,42 @@
+{
+  "HighRiskCountries": [
+    "CN",
+    "RU", 
+    "KP",
+    "IR",
+    "SY",
+    "AF",
+    "IQ",
+    "LY",
+    "SO",
+    "SD",
+    "YE",
+    "MM",
+    "BY",
+    "VE",
+    "CU"
+  ],
+  "ApprovedCountries": [
+    "US",
+    "CA",
+    "GB",
+    "AU",
+    "DE",
+    "FR",
+    "JP",
+    "NL",
+    "SE",
+    "NO",
+    "DK",
+    "FI",
+    "CH",
+    "AT",
+    "BE",
+    "IT",
+    "ES",
+    "IE",
+    "NZ",
+    "SG"
+  ],
+  "MaxTravelSpeedKmh": 1000
+}

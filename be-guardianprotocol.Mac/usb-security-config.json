@@ -1,0 +1,19 @@
+{
+  "AuthorizedDevices": [
+    {
+      "VendorID": "0781",
+      "ProductID": "5567",
+      "Description": "SanDisk Corporate USB"
+    },
+    {
+      "VendorID": "058F",
+      "ProductID": "6387",
+      "Description": "Approved Storage Device"
+    },
+    {
+      "VendorID": "1058",
+      "ProductID": "25A2",
+      "Description": "WD Corporate Drive"
+    }
+  ]
+}
